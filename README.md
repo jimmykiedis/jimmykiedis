@@ -1,11 +1,11 @@
-<h1 align="center">Olá, Mundo! 👋</h1>
+<h1 align="center">Hello, World! 👋</h1>
 
 <p align="center">
   <strong>Front-end Developer • Designer • Problem Solver</strong>
 </p>
 
 <p align="center">
-  Criando para a Web • Explorando ideias • Transformando conceitos em experiências
+  Creating for the Web • Exploring Ideas • Turning Concepts into Experiences
 </p>
 
 ---
@@ -57,24 +57,22 @@
 
 ---
 
-<h2 align="center">Sobre mim</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-🎓 Estudante de Sistemas de Informação — UFGD<br>
-💻 Desenvolvedor Front-end apaixonado por React Native<br>
-🎨 Designer que transforma ideias em experiências visuais<br>
-📋 Organizado, estratégico e atento aos detalhes<br>
-🚀 <strong>Construindo produtos onde tecnologia, design e organização se encontram.</strong>
+🎓 Information Systems student at UFGD<br>
+💻 Front-end Developer passionate about React Native<br>
+🎨 Designer who turns ideas into visual experiences<br>
+📋 Organized, strategic, and detail-oriented<br>
+🚀 <strong>Building products where technology, design, and organization come together.</strong>
 </p>
 
 ---
 
-<h2 align="center">Contato</h2>
+<h2 align="center">Contact</h2>
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/jimmykiedis/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/jimmykiedis/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
