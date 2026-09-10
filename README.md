@@ -55,6 +55,14 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 </p>
 
+<h2 align="center">AI-Assisted Development</h2>
+
+<p align="center">
+  🤖 Integrating AI into the development workflow through planning, task coordination, implementation, code review, and documentation.<br>
+  🧠 Working with multiple AI models and agents to delegate tasks, explore solutions, and improve development efficiency.<br>
+  ⚙️ Using tools such as Codex, ChatGPT, and Claude as complementary parts of a structured development workflow.
+</p>
+
 ---
 
 <h2 align="center">About Me</h2>
